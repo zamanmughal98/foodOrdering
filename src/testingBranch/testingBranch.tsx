@@ -1,7 +1,7 @@
 /*eslint linebreak-style: ["error", "windows"]*/
 import React from "react";
 const testingBranch = ()=> {
-    return( 
+    return(
         <div>
             <h1>Testing Branch Heading one....</h1>
         </div>
