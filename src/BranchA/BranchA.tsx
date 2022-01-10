@@ -5,6 +5,8 @@ const BranchA = () => {
     return (
         <div>
             <h1>Branch A</h1>
+            <h1>Branch A</h1>
+            <h1>Branch A</h1>
         </div>
     );
 };
