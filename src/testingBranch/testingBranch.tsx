@@ -4,7 +4,7 @@ import React from "react";
 const testingBranch = ()=> {
     return(
         <div>
-            <h1> This is Testing Branch ....</h1>
+            <h1>Testing Branch Heading one....</h1>
         </div>
     );
 };
